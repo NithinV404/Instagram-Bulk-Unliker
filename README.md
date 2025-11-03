@@ -7,10 +7,10 @@
     A robust and user-friendly Tampermonkey script to bulk unlike Instagram posts. It features a simple UI, intelligent automation, and a self-reloading mechanism for maximum stability.
     <br />
     <br />
-    <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/LICENSE">
+    <a href="https://github.com/NithinV404/Instagram-Bulk-Unliker/blob/main/LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT">
     </a>
-    <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+    <a href="https://github.com/NithinV404/Instagram-Bulk-Unliker">
       <img src="https://img.shields.io/badge/Version-4.9.5-blue.svg?style=for-the-badge" alt="Version">
     </a>
   </p>
@@ -53,9 +53,7 @@ You need a browser extension to manage userscripts. If you don't have one, **[Ta
 
 With Tampermonkey installed, simply click the link below. Tampermonkey will open a new tab and ask you to confirm the installation.
 
-> **➡️ [Click Here to Install the Script](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/main/instagram-bulk-unliker.user.js)**
-
-> **Important:** You must replace `YOUR_USERNAME` and `YOUR_REPOSITORY_NAME` in the link above with your actual GitHub username and repository name to create a valid installation link.
+> **➡️ [Click Here to Install the Script](https://raw.githubusercontent.com/NithinV404/Instagram-Bulk-Unliker/main/instagram-bulk-unliker.user.js)**
 
 After clicking "Install" in the Tampermonkey tab, the script is ready to use!
 
